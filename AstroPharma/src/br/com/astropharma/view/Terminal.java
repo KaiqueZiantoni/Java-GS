@@ -12,7 +12,7 @@ import br.com.astropharma.model.exclusividadeRegiao.Regiao;
 import javax.swing.*;
 
 public class Terminal {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Bem-vindo ao Sistema do AstroPharma");
         // IMITANDO API. já que não há conexão ainda. Esses dados seriam automatizados no sistema real, ou pelos dados de API, ou pelo banco de dados criado.
         //Define a região
